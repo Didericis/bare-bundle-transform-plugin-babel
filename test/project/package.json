@@ -1,0 +1,8 @@
+{
+  "name": "project",
+  "version": "0.0.1",
+  "main": "app.js",
+  "devDependencies": {
+    "@babel/plugin-transform-unicode-regex": "^7.27.1"
+  }
+}
