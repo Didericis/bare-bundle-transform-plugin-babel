@@ -49,6 +49,11 @@
             },
             {
               "type": "refactor",
+              "breaking": true,
+              "release": "major"
+            },
+            {
+              "type": "refactor",
               "release": "patch"
             }
           ],
@@ -56,7 +61,7 @@
             "noteKeywords": [
               "BREAKING CHANGE",
               "BREAKING CHANGES",
-              "MANUAL BUMP"
+              "MANUAL RELEASE"
             ]
           }
         }
